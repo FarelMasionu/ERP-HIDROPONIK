@@ -1,0 +1,6 @@
+{
+  "name": "Al-Baroqah Hidroponik - ERP & SCM Terpadu",
+  "description": "Sistem ERP & Supply Chain Management Rantai Pasok Segar Terdesentralisasi untuk Petani Binaan Al-Baroqah Hidroponik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
